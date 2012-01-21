@@ -1,0 +1,21 @@
+{
+  "author": "Gábor Molnár <gabor.molnar@sch.bme.hu>",
+  "name": "tilde",
+  "description": "Operator overloading for JavaScript",
+  "keywords": [
+    "operator",
+    "overloading"
+  ],
+  "version": "0.1.0",
+  "homepage": "https://github.com/molnarg/tilde.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/molnarg/tilde.js.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "main": "./lib/tilde.js"
+}

@@ -34,7 +34,7 @@ assert(c >= ~a);
 assert(c >  ~a);
 assert(b == ~c);
 
-// Alternative form
+// Alternative syntax
 assert(~ a <= b);
 assert(~ a <  b);
 assert(~ c >= a);
@@ -52,7 +52,7 @@ Using [npm](http://npmjs.org):
 License
 =======
 
-Copyright (C) 2011 Gábor Molnár
+Copyright (C) 2012 Gábor Molnár
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in

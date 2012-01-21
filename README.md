@@ -33,6 +33,13 @@ assert(a <  ~b);
 assert(c >= ~a);
 assert(c >  ~a);
 assert(b == ~c);
+
+// Alternative form
+assert(~ a <= b);
+assert(~ a <  b);
+assert(~ c >= a);
+assert(~ c >  a);
+assert(~ b == c);
 ```
 
 Installation
